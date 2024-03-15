@@ -1,0 +1,56 @@
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing: border-box;
+  overflow-x: hidden;
+  font-family: Madimi One;
+}
+
+.heading{
+  font-family: Madimi One;
+  font-weight: 900;
+  font-size: 25px;
+  margin-left:3px;
+
+}
+.utext{
+  font-weight: 200;
+  font-size:15px;
+}
+.linkitems{
+  text-decoration: none;
+  color:#ffff;
+  font-weight: 200;
+  font-size:15px;
+}
+.submit_{
+  height: 40px;
+}
+.footer_icon{
+  width: 100px;
+  height: 40px;
+  border: 50%;
+  color: #ffff;
+  
+}
+.footer_icon:hover{
+
+  color:#b700ff;
+  
+}
+
+.hv:hover{
+  color:#b700ff;
+  
+}
+.email:hover{
+  background-color:
+  
+   beige;
+}
+.btnhover:hover{
+  background-color:#b700ff;
+}
+.cat_hover:hover{
+  background-color: #120f12;
+}
